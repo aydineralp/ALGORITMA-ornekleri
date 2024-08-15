@@ -1,0 +1,14 @@
+C:\Users\ERALP\Desktop\algorit\siraliDiziyiBirlestir\siraliDiziyiBirlestir\bin\Debug\net8.0\siraliDiziyiBirlestir.exe
+C:\Users\ERALP\Desktop\algorit\siraliDiziyiBirlestir\siraliDiziyiBirlestir\bin\Debug\net8.0\siraliDiziyiBirlestir.deps.json
+C:\Users\ERALP\Desktop\algorit\siraliDiziyiBirlestir\siraliDiziyiBirlestir\bin\Debug\net8.0\siraliDiziyiBirlestir.runtimeconfig.json
+C:\Users\ERALP\Desktop\algorit\siraliDiziyiBirlestir\siraliDiziyiBirlestir\bin\Debug\net8.0\siraliDiziyiBirlestir.dll
+C:\Users\ERALP\Desktop\algorit\siraliDiziyiBirlestir\siraliDiziyiBirlestir\bin\Debug\net8.0\siraliDiziyiBirlestir.pdb
+C:\Users\ERALP\Desktop\algorit\siraliDiziyiBirlestir\siraliDiziyiBirlestir\obj\Debug\net8.0\siraliDiziyiBirlestir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERALP\Desktop\algorit\siraliDiziyiBirlestir\siraliDiziyiBirlestir\obj\Debug\net8.0\siraliDiziyiBirlestir.AssemblyInfoInputs.cache
+C:\Users\ERALP\Desktop\algorit\siraliDiziyiBirlestir\siraliDiziyiBirlestir\obj\Debug\net8.0\siraliDiziyiBirlestir.AssemblyInfo.cs
+C:\Users\ERALP\Desktop\algorit\siraliDiziyiBirlestir\siraliDiziyiBirlestir\obj\Debug\net8.0\siraliDiziyiBirlestir.csproj.CoreCompileInputs.cache
+C:\Users\ERALP\Desktop\algorit\siraliDiziyiBirlestir\siraliDiziyiBirlestir\obj\Debug\net8.0\siraliDiziyiBirlestir.dll
+C:\Users\ERALP\Desktop\algorit\siraliDiziyiBirlestir\siraliDiziyiBirlestir\obj\Debug\net8.0\refint\siraliDiziyiBirlestir.dll
+C:\Users\ERALP\Desktop\algorit\siraliDiziyiBirlestir\siraliDiziyiBirlestir\obj\Debug\net8.0\siraliDiziyiBirlestir.pdb
+C:\Users\ERALP\Desktop\algorit\siraliDiziyiBirlestir\siraliDiziyiBirlestir\obj\Debug\net8.0\siraliDiziyiBirlestir.genruntimeconfig.cache
+C:\Users\ERALP\Desktop\algorit\siraliDiziyiBirlestir\siraliDiziyiBirlestir\obj\Debug\net8.0\ref\siraliDiziyiBirlestir.dll

@@ -1,0 +1,14 @@
+C:\Users\ERALP\Desktop\algorit\AsalKontrol\AsalKontrol\bin\Debug\net8.0\AsalKontrol.exe
+C:\Users\ERALP\Desktop\algorit\AsalKontrol\AsalKontrol\bin\Debug\net8.0\AsalKontrol.deps.json
+C:\Users\ERALP\Desktop\algorit\AsalKontrol\AsalKontrol\bin\Debug\net8.0\AsalKontrol.runtimeconfig.json
+C:\Users\ERALP\Desktop\algorit\AsalKontrol\AsalKontrol\bin\Debug\net8.0\AsalKontrol.dll
+C:\Users\ERALP\Desktop\algorit\AsalKontrol\AsalKontrol\bin\Debug\net8.0\AsalKontrol.pdb
+C:\Users\ERALP\Desktop\algorit\AsalKontrol\AsalKontrol\obj\Debug\net8.0\AsalKontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERALP\Desktop\algorit\AsalKontrol\AsalKontrol\obj\Debug\net8.0\AsalKontrol.AssemblyInfoInputs.cache
+C:\Users\ERALP\Desktop\algorit\AsalKontrol\AsalKontrol\obj\Debug\net8.0\AsalKontrol.AssemblyInfo.cs
+C:\Users\ERALP\Desktop\algorit\AsalKontrol\AsalKontrol\obj\Debug\net8.0\AsalKontrol.csproj.CoreCompileInputs.cache
+C:\Users\ERALP\Desktop\algorit\AsalKontrol\AsalKontrol\obj\Debug\net8.0\AsalKontrol.dll
+C:\Users\ERALP\Desktop\algorit\AsalKontrol\AsalKontrol\obj\Debug\net8.0\refint\AsalKontrol.dll
+C:\Users\ERALP\Desktop\algorit\AsalKontrol\AsalKontrol\obj\Debug\net8.0\AsalKontrol.pdb
+C:\Users\ERALP\Desktop\algorit\AsalKontrol\AsalKontrol\obj\Debug\net8.0\AsalKontrol.genruntimeconfig.cache
+C:\Users\ERALP\Desktop\algorit\AsalKontrol\AsalKontrol\obj\Debug\net8.0\ref\AsalKontrol.dll

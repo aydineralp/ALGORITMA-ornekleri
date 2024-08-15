@@ -1,0 +1,14 @@
+C:\Users\ERALP\Desktop\algorit\kupunuVeKaresiniAl\kupunuVeKaresiniAl\bin\Debug\net8.0\kupunuVeKaresiniAl.exe
+C:\Users\ERALP\Desktop\algorit\kupunuVeKaresiniAl\kupunuVeKaresiniAl\bin\Debug\net8.0\kupunuVeKaresiniAl.deps.json
+C:\Users\ERALP\Desktop\algorit\kupunuVeKaresiniAl\kupunuVeKaresiniAl\bin\Debug\net8.0\kupunuVeKaresiniAl.runtimeconfig.json
+C:\Users\ERALP\Desktop\algorit\kupunuVeKaresiniAl\kupunuVeKaresiniAl\bin\Debug\net8.0\kupunuVeKaresiniAl.dll
+C:\Users\ERALP\Desktop\algorit\kupunuVeKaresiniAl\kupunuVeKaresiniAl\bin\Debug\net8.0\kupunuVeKaresiniAl.pdb
+C:\Users\ERALP\Desktop\algorit\kupunuVeKaresiniAl\kupunuVeKaresiniAl\obj\Debug\net8.0\kupunuVeKaresiniAl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERALP\Desktop\algorit\kupunuVeKaresiniAl\kupunuVeKaresiniAl\obj\Debug\net8.0\kupunuVeKaresiniAl.AssemblyInfoInputs.cache
+C:\Users\ERALP\Desktop\algorit\kupunuVeKaresiniAl\kupunuVeKaresiniAl\obj\Debug\net8.0\kupunuVeKaresiniAl.AssemblyInfo.cs
+C:\Users\ERALP\Desktop\algorit\kupunuVeKaresiniAl\kupunuVeKaresiniAl\obj\Debug\net8.0\kupunuVeKaresiniAl.csproj.CoreCompileInputs.cache
+C:\Users\ERALP\Desktop\algorit\kupunuVeKaresiniAl\kupunuVeKaresiniAl\obj\Debug\net8.0\kupunuVeKaresiniAl.dll
+C:\Users\ERALP\Desktop\algorit\kupunuVeKaresiniAl\kupunuVeKaresiniAl\obj\Debug\net8.0\refint\kupunuVeKaresiniAl.dll
+C:\Users\ERALP\Desktop\algorit\kupunuVeKaresiniAl\kupunuVeKaresiniAl\obj\Debug\net8.0\kupunuVeKaresiniAl.pdb
+C:\Users\ERALP\Desktop\algorit\kupunuVeKaresiniAl\kupunuVeKaresiniAl\obj\Debug\net8.0\kupunuVeKaresiniAl.genruntimeconfig.cache
+C:\Users\ERALP\Desktop\algorit\kupunuVeKaresiniAl\kupunuVeKaresiniAl\obj\Debug\net8.0\ref\kupunuVeKaresiniAl.dll

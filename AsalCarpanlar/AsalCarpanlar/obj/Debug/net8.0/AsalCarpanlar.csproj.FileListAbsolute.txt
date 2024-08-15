@@ -1,0 +1,14 @@
+C:\Users\ERALP\Desktop\algorit\AsalCarpanlar\AsalCarpanlar\bin\Debug\net8.0\AsalCarpanlar.exe
+C:\Users\ERALP\Desktop\algorit\AsalCarpanlar\AsalCarpanlar\bin\Debug\net8.0\AsalCarpanlar.deps.json
+C:\Users\ERALP\Desktop\algorit\AsalCarpanlar\AsalCarpanlar\bin\Debug\net8.0\AsalCarpanlar.runtimeconfig.json
+C:\Users\ERALP\Desktop\algorit\AsalCarpanlar\AsalCarpanlar\bin\Debug\net8.0\AsalCarpanlar.dll
+C:\Users\ERALP\Desktop\algorit\AsalCarpanlar\AsalCarpanlar\bin\Debug\net8.0\AsalCarpanlar.pdb
+C:\Users\ERALP\Desktop\algorit\AsalCarpanlar\AsalCarpanlar\obj\Debug\net8.0\AsalCarpanlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERALP\Desktop\algorit\AsalCarpanlar\AsalCarpanlar\obj\Debug\net8.0\AsalCarpanlar.AssemblyInfoInputs.cache
+C:\Users\ERALP\Desktop\algorit\AsalCarpanlar\AsalCarpanlar\obj\Debug\net8.0\AsalCarpanlar.AssemblyInfo.cs
+C:\Users\ERALP\Desktop\algorit\AsalCarpanlar\AsalCarpanlar\obj\Debug\net8.0\AsalCarpanlar.csproj.CoreCompileInputs.cache
+C:\Users\ERALP\Desktop\algorit\AsalCarpanlar\AsalCarpanlar\obj\Debug\net8.0\AsalCarpanlar.dll
+C:\Users\ERALP\Desktop\algorit\AsalCarpanlar\AsalCarpanlar\obj\Debug\net8.0\refint\AsalCarpanlar.dll
+C:\Users\ERALP\Desktop\algorit\AsalCarpanlar\AsalCarpanlar\obj\Debug\net8.0\AsalCarpanlar.pdb
+C:\Users\ERALP\Desktop\algorit\AsalCarpanlar\AsalCarpanlar\obj\Debug\net8.0\AsalCarpanlar.genruntimeconfig.cache
+C:\Users\ERALP\Desktop\algorit\AsalCarpanlar\AsalCarpanlar\obj\Debug\net8.0\ref\AsalCarpanlar.dll

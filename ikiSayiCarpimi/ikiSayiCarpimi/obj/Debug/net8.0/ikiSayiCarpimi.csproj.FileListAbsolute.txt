@@ -1,0 +1,14 @@
+C:\Users\ERALP\Desktop\algorit\ikiSayiCarpimi\ikiSayiCarpimi\bin\Debug\net8.0\ikiSayiCarpimi.exe
+C:\Users\ERALP\Desktop\algorit\ikiSayiCarpimi\ikiSayiCarpimi\bin\Debug\net8.0\ikiSayiCarpimi.deps.json
+C:\Users\ERALP\Desktop\algorit\ikiSayiCarpimi\ikiSayiCarpimi\bin\Debug\net8.0\ikiSayiCarpimi.runtimeconfig.json
+C:\Users\ERALP\Desktop\algorit\ikiSayiCarpimi\ikiSayiCarpimi\bin\Debug\net8.0\ikiSayiCarpimi.dll
+C:\Users\ERALP\Desktop\algorit\ikiSayiCarpimi\ikiSayiCarpimi\bin\Debug\net8.0\ikiSayiCarpimi.pdb
+C:\Users\ERALP\Desktop\algorit\ikiSayiCarpimi\ikiSayiCarpimi\obj\Debug\net8.0\ikiSayiCarpimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERALP\Desktop\algorit\ikiSayiCarpimi\ikiSayiCarpimi\obj\Debug\net8.0\ikiSayiCarpimi.AssemblyInfoInputs.cache
+C:\Users\ERALP\Desktop\algorit\ikiSayiCarpimi\ikiSayiCarpimi\obj\Debug\net8.0\ikiSayiCarpimi.AssemblyInfo.cs
+C:\Users\ERALP\Desktop\algorit\ikiSayiCarpimi\ikiSayiCarpimi\obj\Debug\net8.0\ikiSayiCarpimi.csproj.CoreCompileInputs.cache
+C:\Users\ERALP\Desktop\algorit\ikiSayiCarpimi\ikiSayiCarpimi\obj\Debug\net8.0\ikiSayiCarpimi.dll
+C:\Users\ERALP\Desktop\algorit\ikiSayiCarpimi\ikiSayiCarpimi\obj\Debug\net8.0\refint\ikiSayiCarpimi.dll
+C:\Users\ERALP\Desktop\algorit\ikiSayiCarpimi\ikiSayiCarpimi\obj\Debug\net8.0\ikiSayiCarpimi.pdb
+C:\Users\ERALP\Desktop\algorit\ikiSayiCarpimi\ikiSayiCarpimi\obj\Debug\net8.0\ikiSayiCarpimi.genruntimeconfig.cache
+C:\Users\ERALP\Desktop\algorit\ikiSayiCarpimi\ikiSayiCarpimi\obj\Debug\net8.0\ref\ikiSayiCarpimi.dll

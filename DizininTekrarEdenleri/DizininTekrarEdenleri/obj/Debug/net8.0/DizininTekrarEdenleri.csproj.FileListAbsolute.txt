@@ -1,0 +1,14 @@
+C:\Users\ERALP\Desktop\algorit\DizininTekrarEdenleri\DizininTekrarEdenleri\bin\Debug\net8.0\DizininTekrarEdenleri.exe
+C:\Users\ERALP\Desktop\algorit\DizininTekrarEdenleri\DizininTekrarEdenleri\bin\Debug\net8.0\DizininTekrarEdenleri.deps.json
+C:\Users\ERALP\Desktop\algorit\DizininTekrarEdenleri\DizininTekrarEdenleri\bin\Debug\net8.0\DizininTekrarEdenleri.runtimeconfig.json
+C:\Users\ERALP\Desktop\algorit\DizininTekrarEdenleri\DizininTekrarEdenleri\bin\Debug\net8.0\DizininTekrarEdenleri.dll
+C:\Users\ERALP\Desktop\algorit\DizininTekrarEdenleri\DizininTekrarEdenleri\bin\Debug\net8.0\DizininTekrarEdenleri.pdb
+C:\Users\ERALP\Desktop\algorit\DizininTekrarEdenleri\DizininTekrarEdenleri\obj\Debug\net8.0\DizininTekrarEdenleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERALP\Desktop\algorit\DizininTekrarEdenleri\DizininTekrarEdenleri\obj\Debug\net8.0\DizininTekrarEdenleri.AssemblyInfoInputs.cache
+C:\Users\ERALP\Desktop\algorit\DizininTekrarEdenleri\DizininTekrarEdenleri\obj\Debug\net8.0\DizininTekrarEdenleri.AssemblyInfo.cs
+C:\Users\ERALP\Desktop\algorit\DizininTekrarEdenleri\DizininTekrarEdenleri\obj\Debug\net8.0\DizininTekrarEdenleri.csproj.CoreCompileInputs.cache
+C:\Users\ERALP\Desktop\algorit\DizininTekrarEdenleri\DizininTekrarEdenleri\obj\Debug\net8.0\DizininTekrarEdenleri.dll
+C:\Users\ERALP\Desktop\algorit\DizininTekrarEdenleri\DizininTekrarEdenleri\obj\Debug\net8.0\refint\DizininTekrarEdenleri.dll
+C:\Users\ERALP\Desktop\algorit\DizininTekrarEdenleri\DizininTekrarEdenleri\obj\Debug\net8.0\DizininTekrarEdenleri.pdb
+C:\Users\ERALP\Desktop\algorit\DizininTekrarEdenleri\DizininTekrarEdenleri\obj\Debug\net8.0\DizininTekrarEdenleri.genruntimeconfig.cache
+C:\Users\ERALP\Desktop\algorit\DizininTekrarEdenleri\DizininTekrarEdenleri\obj\Debug\net8.0\ref\DizininTekrarEdenleri.dll

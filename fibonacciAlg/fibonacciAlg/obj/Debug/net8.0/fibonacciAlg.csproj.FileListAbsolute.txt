@@ -1,0 +1,14 @@
+C:\Users\ERALP\Desktop\algorit\fibonacciAlg\fibonacciAlg\bin\Debug\net8.0\fibonacciAlg.exe
+C:\Users\ERALP\Desktop\algorit\fibonacciAlg\fibonacciAlg\bin\Debug\net8.0\fibonacciAlg.deps.json
+C:\Users\ERALP\Desktop\algorit\fibonacciAlg\fibonacciAlg\bin\Debug\net8.0\fibonacciAlg.runtimeconfig.json
+C:\Users\ERALP\Desktop\algorit\fibonacciAlg\fibonacciAlg\bin\Debug\net8.0\fibonacciAlg.dll
+C:\Users\ERALP\Desktop\algorit\fibonacciAlg\fibonacciAlg\bin\Debug\net8.0\fibonacciAlg.pdb
+C:\Users\ERALP\Desktop\algorit\fibonacciAlg\fibonacciAlg\obj\Debug\net8.0\fibonacciAlg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERALP\Desktop\algorit\fibonacciAlg\fibonacciAlg\obj\Debug\net8.0\fibonacciAlg.AssemblyInfoInputs.cache
+C:\Users\ERALP\Desktop\algorit\fibonacciAlg\fibonacciAlg\obj\Debug\net8.0\fibonacciAlg.AssemblyInfo.cs
+C:\Users\ERALP\Desktop\algorit\fibonacciAlg\fibonacciAlg\obj\Debug\net8.0\fibonacciAlg.csproj.CoreCompileInputs.cache
+C:\Users\ERALP\Desktop\algorit\fibonacciAlg\fibonacciAlg\obj\Debug\net8.0\fibonacciAlg.dll
+C:\Users\ERALP\Desktop\algorit\fibonacciAlg\fibonacciAlg\obj\Debug\net8.0\refint\fibonacciAlg.dll
+C:\Users\ERALP\Desktop\algorit\fibonacciAlg\fibonacciAlg\obj\Debug\net8.0\fibonacciAlg.pdb
+C:\Users\ERALP\Desktop\algorit\fibonacciAlg\fibonacciAlg\obj\Debug\net8.0\fibonacciAlg.genruntimeconfig.cache
+C:\Users\ERALP\Desktop\algorit\fibonacciAlg\fibonacciAlg\obj\Debug\net8.0\ref\fibonacciAlg.dll
